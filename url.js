@@ -8,7 +8,8 @@
 
 
 const urls = [
-	'https://hhming.moe',
-	'https://github.com/hms5232',
-	'https://gitlab.com/hms5232',
+	'https://moaform.com/q/OPtr6I',
+	'https://moaform.com/q/dqAEzk',
+	'https://moaform.com/q/jVaugW',
+	'https://moaform.com/q/zQ4EZr',
 ];
