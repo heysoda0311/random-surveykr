@@ -10,5 +10,4 @@
 const urls = [
 	'https://moaform.com/q/jVaugW',
 	'https://moaform.com/q/zQ4EZr',
-	'https://moaform.com/q/dqAEzk',
 ];
